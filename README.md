@@ -5,6 +5,7 @@ A basic python script which runs in the background, records keysrokes and captur
 <h3>Disclaimer:</h3> This project is for educational purposes ONLY and any unethical practices are NOT encouraged.
 
 <h3>Installation and usage:</h3>
+
 1. Clone the repo or download the python file on your system.
 
 2. Change execution permissions.
